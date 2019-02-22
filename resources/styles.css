@@ -1,0 +1,17 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+.headerlink {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
