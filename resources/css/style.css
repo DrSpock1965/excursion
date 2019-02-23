@@ -1,0 +1,53 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+video {
+  margin-bottom: 20px;
+}
+
+.scndclass {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+.frst {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 90%;
+}
+
+#pers, #rel {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#exc {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#xcur {
+  text-align: right;;
+  color: gray;
+  font-size: 21px;
+}
